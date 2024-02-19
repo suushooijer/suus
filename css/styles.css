@@ -10,7 +10,12 @@ body {
 	color: #202030;
 	background-color: #B2CFE8;
 }
-
+h1 {
+  color: blue;
+}
+h5 {
+  color: cornflowerblue;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
