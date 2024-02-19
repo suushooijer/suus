@@ -16,6 +16,12 @@ h1 {
 h5 {
   color: cornflowerblue;
 }
+h4 {
+  color: dodgerblue;
+}
+h2 {
+  color: dimgrey;
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
