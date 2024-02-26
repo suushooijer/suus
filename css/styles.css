@@ -55,6 +55,9 @@ h2 {
 	padding-left: 1em;
 }
 
+.customclass {
+	color: purple;
+}
 /* Styles for contact icons */
 
 .contact-icon {
