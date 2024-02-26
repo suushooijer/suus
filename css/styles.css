@@ -59,6 +59,14 @@ h2 {
 	color: purple;
 }
 
+.border {
+	border-color: mediumpurple !important;
+}
+
+.language-progress {
+	background-color: rebeccapurple;
+}
+
 .anton-regular {
   font-family: "Anton", sans-serif;
   font-weight: 400;
