@@ -73,6 +73,10 @@ h2 {
   font-style: normal;
 }
 
+.img {
+  border-radius: 10px;
+}
+
 /* Styles for contact icons */
 
 .contact-icon {
